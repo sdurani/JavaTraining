@@ -40,5 +40,7 @@ public class FamousQuotes {
             }
         }
         while (userSecondChoice != 2);
+
+        read.close();
     }
 }
