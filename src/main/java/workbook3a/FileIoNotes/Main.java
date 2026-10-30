@@ -1,4 +1,4 @@
-package workbook3a.fileio;
+package workbook3a.FileIoNotes;
 
 //import java.io.*; // --> not as specific, but applies the library to all classes
 import java.io.*;
