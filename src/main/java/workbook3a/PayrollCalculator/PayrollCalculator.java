@@ -50,7 +50,6 @@ public class PayrollCalculator {
                         employeeName,
                         employee.getGrossPay());
                 bufWriter.write(payrollText);
-
             }
             bufReader.close();
             bufWriter.close();
