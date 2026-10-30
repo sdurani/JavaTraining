@@ -12,7 +12,7 @@ public class BedtimeStories {
     public static void main(String[] args) {
 
         System.out.println("Enter the name of a story: ");
-        String storyName = read.nextLine();
+        String storyName = read.nextLine().trim();
 
         try {
 
