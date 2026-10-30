@@ -32,19 +32,19 @@ public class Employee {
     }
 
 
-    // Setters
-    public void setName(String name) {
-        this.name = name;
-    }
-    public void setEmployeeId(int employeeId) {
-        this.employeeId = employeeId;
-    }
-    public void setHoursWorked(double hoursWorked) {
-        this.hoursWorked = hoursWorked;
-    }
-    public void setPayRate(double payRate) {
-        this.payRate = payRate;
-    }
+    // Setters NOT necessary
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//    public void setEmployeeId(int employeeId) {
+//        this.employeeId = employeeId;
+//    }
+//    public void setHoursWorked(double hoursWorked) {
+//        this.hoursWorked = hoursWorked;
+//    }
+//    public void setPayRate(double payRate) {
+//        this.payRate = payRate;
+//    }
 
     // Gets the gross pay
     public double getGrossPay() {
